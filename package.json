@@ -1,0 +1,12 @@
+{
+  "name": "esuf",
+  "version": "0.1.0",
+  "description": "ESUF - Simulador de futebol com IA nos 22 jogadores",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "sim": "node cli.js"
+  },
+  "dependencies": { "phaser": "^3.80.1" },
+  "devDependencies": { "electron": "^31.0.0" }
+}
